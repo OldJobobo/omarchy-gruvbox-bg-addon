@@ -27,14 +27,20 @@ A curated set of wallpapers themed around the Gruvbox palette for Omarchy.
 
 ## Install
 
-Clone the repo, then use one of these paths and drag and drop the wallpapers you want into the folder Omarchy opens:
+Clone the repo, then open Omarchy's background installer and import the wallpapers from the cloned folder.
 
 ```bash
 git clone https://github.com/OldJobobo/omarchy-gruvbox-bg-addon.git
 ```
 
-- `omarchy-theme-bg-install`
-- Omarchy Menu > Install > Style > Background
+1. Open the installer:
+   - `omarchy-theme-bg-install`
+
+   or
+
+   - Omarchy Menu >
+     Install > Style > Background
+2. When the folder opens, drag wallpapers from your cloned `omarchy-gruvbox-bg-addon` folder into it.
 
 ## Contributing Wallpapers
 
@@ -78,5 +84,5 @@ That's it! I'll review your submission and merge it if it fits the Gruvbox theme
 ### Wallpaper Guidelines
 - **Theme**: Should match the Gruvbox color palette (warm browns, muted greens, soft golds)
 - **Format**: JPG or PNG
-- **Resolution**: Higher resolution is better (1920x1080 minimum recommended)
+- **Resolution**: 2560x1440 minimum
 - **Filename**: Use descriptive, lowercase names with dashes (e.g., `forest-cabin-misty.jpg`)
