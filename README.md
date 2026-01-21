@@ -32,6 +32,7 @@ Clone the repo, then open Omarchy's background installer and import the wallpape
 ```bash
 git clone https://github.com/OldJobobo/omarchy-gruvbox-bg-addon.git
 ```
+Make sure you change to the Gruvbox theme or whatever theme you want to add the wallpaper(s) to, then do:
 
 1. Open the installer:
    - `omarchy-theme-bg-install`
